@@ -10,7 +10,7 @@ local mod_path = minetest.get_modpath("sunset_biomes")
 
 dofile(mod_path.."/old.lua")
 dofile(mod_path.."/old_torch.lua")
-dofile(mod_path.."/old_mob.lua")
+dofile(mod_path.."/old_mobs.lua")
 
 dofile(mod_path.."/mighty.lua")
 
